@@ -27,15 +27,7 @@ socalbradleyelectric/
 
 ---
 
-## GitHub Pages Setup (Step by Step)
 
-### 1. Create the Repository
-1. Go to [github.com](https://github.com) and sign in (or create an account)
-2. Click the **+** icon → **New repository**
-3. Name it exactly: `socalbradleyelectric.github.io`  
-   *(or your username if you prefer: `yourusername.github.io`)*
-4. Set to **Public**
-5. Click **Create repository**
 
 ### 2. Upload the Files
 1. On the repo page, click **uploading an existing file**
